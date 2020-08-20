@@ -22,7 +22,7 @@ Create a new project folder on your local machine, `cd` into that directory, and
 
 ```
 git clone https://github.com/chrismlusk/accuraty-templates.git .
-rm -rf .git
+rm -rf .git   # rm -r -fo .git #(PowerShell)
 git init
 ```
 
